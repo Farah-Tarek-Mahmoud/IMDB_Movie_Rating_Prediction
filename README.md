@@ -44,8 +44,3 @@ The dataset contains advertising spend on:
 ## Key Results:
 - **Random Forest Regressor**: After tuning, the model was optimized with hyperparameters such as number of estimators, maximum depth, and minimum samples for splits.
 - **OLS Linear Regression**: Provided insights into feature significance and fit using traditional regression metrics.
-
-## Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/advertising-sales-prediction.git
